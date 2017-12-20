@@ -1,0 +1,7 @@
+name="SkyHD 17"
+url="https://github.com/timmyaj/kodisky/skyhd17108.zip"
+img="http://i2.wp.com/www.mrknowitall.xyz/wp-content/uploads/2017/02/skyHD-kodi17-blue-e1487933362723.png"
+fanart="http://mrknowitall.xyz/wp-content/uploads/2016/09/Plain-Background.jpg"
+description="Our official Sky HD build for Kodi 16 and 17, ready for you to use at home, Tv guide is running iVue 2.0, file manager is accessible through the settings which can be found in the extras section. Newly added add-ons to help you find what you're looking for. If you run into problems or need some help head over to our facebook page"
+
+
